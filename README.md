@@ -1,2 +1,1 @@
-# nft-preview-card
- 
+NFT preview component
